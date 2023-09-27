@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
 body{
 width:100%;
-background-color:white;}
+background-color:#9d7153;}
 * {
     margin: 0;
     padding: 0;
@@ -44,7 +44,7 @@ Background-color:white;
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background-color: #101010;
+    background-color: 	#9d7153;
 }
 .nav-menu {
     display: flex;
@@ -116,7 +116,7 @@ color:black;}
 @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 
 #horloge{
-background-color:white;
+background-color:	#9d7153;
 color:black;
   height: 5px;
    display: flex;
