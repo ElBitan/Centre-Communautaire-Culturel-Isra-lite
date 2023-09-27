@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,400&display=swap');
-body{background-color:white;}
+body{background-color:	#9d7153;}
 * {
     margin: 0;
     padding: 0;
@@ -19,12 +19,12 @@ a {
     text-decoration: none;
 }
 .header1{
- border-bottom: 0px solid white;
+ border-bottom: 0px solid 	#9d7153;
    
 }
 
 .navbar {
-Background-color:white;
+Background-color:	#9d7153;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -70,7 +70,7 @@ Background-color:white;
     color: black;
 }
 #h{
-border: 10px solid white;
+border: 10px solid 	#9d7153;
  background-image:url("https://upload.wikimedia.org/wikipedia/commons/0/08/Ghriba3.jpg");
 background-size: 100% 100%;
 background-repeat: no-repeat;
@@ -135,7 +135,7 @@ border:solid white 15px;
         left: -100%;
         top: 5rem;
         flex-direction: column;
-        background-color: white;
+        background-color: 	#9d7153;
         width: 100%;
         border-radius: 10px;
         text-align: center;
